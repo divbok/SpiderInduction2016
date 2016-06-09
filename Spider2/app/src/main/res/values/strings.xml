@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Spider2</string>
+    <string name="roll_number">Roll Number:</string>
+    <string name="name">Name:</string>
+    <string name="spider_inductions_2016">Spider Inductions 2016</string>
+    <string name="tronix">Tronix</string>
+    <string name="algos">Algos</string>
+    <string name="webdev">WebDev</string>
+    <string name="appdev">Appdev</string>
+    <string name="do_you_want_a_mentor">Do you want a Mentor ?</string>
+    <string name="back">BACK</string>
+    <string name="submit">SUBMIT</string>
+    <string name="choose_your_dept">Choose your Dept:</string>
+    <string-array name="Dept">
+        <item>Civil</item>
+        <item>CSE</item>
+        <item>Chem</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>Mech</item>
+        <item>Meta</item>
+        <item>Prod</item>
+    </string-array>
+</resources>
