@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spider3</string>
+    <string name="slide_show">Slide Show</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string-array name="Musiclist">
+        <item>galliyan</item>
+        <item>feedthedada</item>
+        <item>mastmagan</item>
+    </string-array>
+
+</resources>
