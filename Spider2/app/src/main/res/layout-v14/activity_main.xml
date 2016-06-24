@@ -40,6 +40,7 @@
         android:layout_height="wrap_content"
         android:text="@string/choose_your_dept"
         android:id="@+id/choosedept"
+        android:textSize="20sp"
         android:layout_below="@+id/roll"/>
     <Spinner
         android:layout_below="@+id/choosedept"
@@ -49,6 +50,12 @@
         android:id="@+id/dept"
         android:spinnerMode="dropdown">
     </Spinner>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_your_profiles"
+        android:id="@+id/chooseprof"
+        android:textSize="20sp"/>
     <CheckBox
         android:layout_below="@+id/dept"
         android:layout_width="wrap_content"
