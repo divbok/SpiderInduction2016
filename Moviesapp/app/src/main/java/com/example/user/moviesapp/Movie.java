@@ -6,32 +6,33 @@ import com.google.gson.annotations.SerializedName;
  * Created by user on 7/23/2016.
  */
 public class Movie {
+    @Expose
     @SerializedName("Title")
     private String title;
-
+@Expose
     @SerializedName("Year")
     private String year;
-
+@Expose
     @SerializedName("Genre")
     private String genre;
-
+@Expose
     @SerializedName("Director")
     private String director;
-
+@Expose
     @SerializedName("Plot")
     private String plot;
-
+@Expose
     @SerializedName("Poster")
     private String poster;
 
     private String imdbRating;
-
+@Expose
     @SerializedName("imdbID")
     private String imdbId;
-
+@Expose
     @SerializedName("Type")
     private String type;
-
+@Expose
     @SerializedName("Response")
     private String response;
 
